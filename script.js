@@ -47,7 +47,7 @@ function Banner(){
 			
 		bgContext.fillStyle = "#000000";
 		bgContext.font = '175px impact';
-		bgContext.fillText(keyword, 40, 180);
+		bgContext.fillText(keyword, 90, 180);
 		
 		clear();	
 		getCoords();
