@@ -8,8 +8,13 @@ h1 {
   font-family:"Abel",sans-serif;
   font-size:60px;
   margin-top:275px;
-  margin-left:625px;
-  
+  margin-left:625px; 
+}
+
+.message{
+    position: relative;
+    top: -63.5%;
+    left: -10%;
 }
 
 $cell: 50.1% / 8;
